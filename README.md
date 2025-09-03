@@ -1,5 +1,5 @@
 # leetcode_train
-本仓库用于存放一些常见算法题解，教程reference为：www.programmercarl.com
+This repo is used for record some common algorithm problems
 
 There are several parts
 ## 1. Array
@@ -11,3 +11,7 @@ There are several parts
 
 · Sliding Window
 
+
+
+## REFERENCE
+www.programmercarl.com
