@@ -4,7 +4,10 @@
 There are several parts
 ## 1. Array
 · Binary Search
+
 · Tortoise and Hare algorithm（Fast and Slow Pointers）
+
 · Two Pointers
+
 · Sliding Window
 
